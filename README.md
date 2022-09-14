@@ -12,3 +12,9 @@
 
 - https://documenter.getpostman.com/view/23248490/2s7YYvb31r
 - https://www.getpostman.com/collections/5e1dec74f9c1e793f9df
+
+# How to run?
+```
+npm i
+npm run start:dev
+```
